@@ -26,3 +26,4 @@ Projet personnel : Scraper un site internet
 Domaine d'expertise pour le moment :
 - Intégrateur Web
 - Création et mise en ligne d'un site WordPress
+- Node.js
