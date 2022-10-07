@@ -1,5 +1,13 @@
 # Présentation
-Bonjour à tous, Je suis mohammed raki et je suis actuellement développeur web. J'ai principalement deux domaines d'expertises.
+Bonjour à tous, Je suis mohammed-yassine raki et je suis actuellement développeur web. J'ai principalement deux domaines d'expertises.
+
+# Dévelopeur web
+
+- Téchno maitrisées : HTML/CSS et Javascript (ES6)
+- Java : Création d'API
+- Angular 8
+- Node.js
+
 
 # Data analyst
 
@@ -19,11 +27,3 @@ Projet personnel : Scraper un site internet
 - Packages utilisés : (beautifulSoupe, Scrapy, Selenium, Splash)
 
 
-# Dévelopeur web
-
-- Téchno maitrisées : HTML/CSS et Javascript (ES6)
-
-Domaine d'expertise pour le moment :
-- Intégrateur Web
-- Création et mise en ligne d'un site WordPress
-- Node.js
